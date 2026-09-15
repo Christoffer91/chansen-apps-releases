@@ -16,7 +16,7 @@ Two native macOS apps for turning speech into useful text. Choose **Local Dictat
 - Turn audio files into text.
 - Keep recurring names and terminology in your vocabulary.
 
-[**Download Local Dictation 1.0.28**](https://github.com/Christoffer91/chansen-apps-releases/releases/download/dictation-v1.0.28/MacLocalDictation-1.0.28-1028.dmg)
+[**Download Local Dictation 1.0.29**](https://github.com/Christoffer91/chansen-apps-releases/releases/download/dictation-v1.0.29/MacLocalDictation-1.0.29-1029.dmg)
 
 </td>
 <td width="50%" valign="top">
@@ -29,13 +29,13 @@ Two native macOS apps for turning speech into useful text. Choose **Local Dictat
 - Review speaker-aware transcripts.
 - Use Day Log to capture and revisit your workday.
 
-[**Download Local Capture 1.0.28**](https://github.com/Christoffer91/chansen-apps-releases/releases/download/dictation-v1.0.28/MacLocalCapture-1.0.28-128.dmg)
+[**Download Local Capture 1.0.29**](https://github.com/Christoffer91/chansen-apps-releases/releases/download/dictation-v1.0.29/MacLocalCapture-1.0.29-129.dmg)
 
 </td>
 </tr>
 </table>
 
-[All releases](https://github.com/Christoffer91/chansen-apps-releases/releases) · [Release notes and checksums](https://github.com/Christoffer91/chansen-apps-releases/releases/tag/dictation-v1.0.28)
+[All releases](https://github.com/Christoffer91/chansen-apps-releases/releases) · [Release notes and checksums](https://github.com/Christoffer91/chansen-apps-releases/releases/tag/dictation-v1.0.29)
 
 ## A look inside
 
@@ -66,4 +66,4 @@ Local speech models can transcribe on your Mac after the model is downloaded. Op
 
 Use **Check for Updates** in the app, or download a newer version from [Releases](https://github.com/Christoffer91/chansen-apps-releases/releases). This repository hosts the download files and Sparkle update feeds for both apps.
 
-The download links above point to the published **1.0.28** release.
+The download links above point to the published **1.0.29** release.
